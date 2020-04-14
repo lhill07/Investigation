@@ -1,0 +1,2 @@
+tent/VirtualRealityBP/Blueprints/BP_PickupCube.uexp
+VRProject/Saved/Logs/VRProject-backup-0001.01.01-00.00.00.log

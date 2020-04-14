@@ -1,0 +1,446 @@
+[
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/797e6aab156d1cf774ca56785a2e1f2f/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/anim_noaction.xml.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/anim/noaction.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_status_bar_ongoing_event_progress_bar.xml.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/layout/status_bar_ongoing_event_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-mdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-mdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/169f78d2bfff6ca59138881c119e5267/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-hdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/169f78d2bfff6ca59138881c119e5267/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_downloadimageh.png.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/drawable/downloadimageh.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-hdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-hdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_downloader_progress.xml.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/layout/downloader_progress.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/drawable-hdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/169f78d2bfff6ca59138881c119e5267/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/169f78d2bfff6ca59138881c119e5267/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-mdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/797e6aab156d1cf774ca56785a2e1f2f/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/169f78d2bfff6ca59138881c119e5267/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/169f78d2bfff6ca59138881c119e5267/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-mdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout-land_downloader_progress.xml.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/layout-land/downloader_progress.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-hdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-xhdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-mdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/drawable-mdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/797e6aab156d1cf774ca56785a2e1f2f/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/169f78d2bfff6ca59138881c119e5267/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/169f78d2bfff6ca59138881c119e5267/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/7805cf1b86cf560c23a606b990042127/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/5063686da0726d9b511633cd33da2684/res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/169f78d2bfff6ca59138881c119e5267/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/laurahill/Documents/Unreal Projects/VRProject/Intermediate/Android/APK/gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/laurahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f0c38bb42af274a43bb2f58e390d1de9/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

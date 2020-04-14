@@ -1,0 +1,1 @@
+../../../VRProject/VRProject.uproject  /Game/VirtualRealityBP/Maps/MotionControllerMap -Messaging -SessionId=C5AB8DEB9C49182906C10B91D70CDA91 -SessionOwner="laurahill" -SessionName="Launch On Device" -iterative
